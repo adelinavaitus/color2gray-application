@@ -4,6 +4,14 @@ This is a simple JavaFX application that allows users to upload an image, conver
 It also provides the ability to display information about the process via a user-friendly interface, with additional 
 features like hyperlinks and radio buttons.
 
+## Testing the Application
+You can test the application by downloading the Windows executable from the [Releases](https://github.com/adelinavaitus/color2gray-application/releases) section.
+1. Go to the [Releases](https://github.com/adelinavaitus/color2gray-application/releases) page.
+2. Download the `Color2GrayApplication.exe` file from the latest release.
+3. Ensure you have **Java 1.8 - 1.8.0_121** with **JavaFX** installed on your system.
+4. Double-click the `.exe` file to launch the application.
+
+   
 ## Features
 - Upload an image file using a file chooser.
 - Convert a color image to grayscale by averaging the RGB values of each pixel.
